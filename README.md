@@ -34,7 +34,8 @@ JavaScript file for interactivity (if needed)
 
 1. Clone the repository:
    
-    git clone https://github.com/charannaik07N/iphone-16-pro-website.git
+    git clone https://github.com/charannaik07N/Apple-iPhone-16-Pro-Product-Page
+.git
     
 
 2. Navigate to the project folder:
